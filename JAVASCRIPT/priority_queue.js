@@ -48,7 +48,7 @@ function PriorityQueue() {
 
   //Checks if the queue is empty or not
   this.isEmpty = function () {
-    return collection.length === 0;
+    return collection.length === 0;  // returns true or false
   };
 }
 
