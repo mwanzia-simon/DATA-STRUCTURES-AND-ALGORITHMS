@@ -2,7 +2,7 @@
 
 This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using JavaScript.
 
-![banner_image](./docs/images/banner.jpg)
+![banner_image](./docs/images/banner_image.jpg)
 
 The goal is to understand how different data structures and algorithms work, improve problem-solving skills, and write more efficient code through hands-on practice.
 
